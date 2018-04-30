@@ -1,0 +1,27 @@
+# Dependencies
+# markdown:         redcarpet
+# highlighter:      pygments
+markdown: kramdown
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            ¥One
+tagline:          'A Jekyll theme'
+description:      '<a href="https://github.com/soarcreator">soarcreator</a>'
+url:              https://soarcreator.github.io/
+baseurl:          /
+
+author:
+  name:           'soarcreator'
+  url:            https://twitter.com/soarcreator
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/soarcreator
