@@ -23,37 +23,12 @@ nav a {
 	cursor: pointer;
 }
 nav .animation {
-	position: relative;
+	position: absolute;
 	height: 100%;
-	top: -54px;
+	top: 0;
 	z-index: 0;
 	transition: all .5s ease 0s;
 	border-radius: 8px;
-}
-nav .start-home, a:nth-child(1):hover~.animation {
-	width: 105px;
-	left: 0;
-	background-color: #1abc9c;
-}
-nav .start-about, a:nth-child(2):hover~.animation {
-	width: 105px;
-	left: 105px;
-	background-color: #e74c3c;
-}
-nav .start-blog, a:nth-child(3):hover~.animation {
-	width: 135px;
-	left: 210px;
-	background-color: #3498db;
-}
-nav .start-portefolio, a:nth-child(4):hover~.animation {
-	width: 115px;
-	left: 345px;
-	background-color: #9b59b6;
-}
-nav .start-contact, a:nth-child(5):hover~.animation {
-	width: 130px;
-	left: 460px;
-	background-color: #e67e22;
 }
 
 body {
