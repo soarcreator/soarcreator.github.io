@@ -8,9 +8,11 @@ markdown: kramdown
 # relative_permalinks: true
 
 # Setup
-title:            ¥One
+title: ¥One
+email: your-email@example.com
 tagline:          'A Jekyll theme'
-description:      '<a href="https://github.com/soarcreator">soarcreator</a>'
+description: >- # this means to ignore newlines until "baseurl:"
+  <a href="https://github.com/soarcreator">soarcreator</a>
 url:              https://soarcreator.github.io/
 baseurl:          /
 
