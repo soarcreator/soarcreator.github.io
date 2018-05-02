@@ -6,8 +6,7 @@ layout: default
 ---
 
 <div class="posts">
-  {{ page }}
-  <!-- { for post in paginator.posts % -->
+  <!-- { for post in paginator.posts %} -->
   {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
