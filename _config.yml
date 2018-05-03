@@ -17,13 +17,12 @@ url: /
 baseurl: /
 
 author:
-  name:           'soarcreator'
-  url:            https://twitter.com/soarcreator
+  name: 'soarcreator'
+  github: https://github.com/soarcreator
+  twitter: https://twitter.com/soarcreator
+  
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/soarcreator
+version:          0.0.1
