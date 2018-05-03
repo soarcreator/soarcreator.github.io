@@ -14,7 +14,7 @@ tagline:          'A Jekyll theme'
 description: >- # this means to ignore newlines until "baseurl:"
   <a href="https://github.com/soarcreator">soarcreator</a>
 url: https://soarcreator.github.io/
-baseurl: /
+baseurl: /project-site
 
 author:
   name:           'soarcreator'
