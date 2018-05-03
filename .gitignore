@@ -1,9 +1,43 @@
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
 
-_old/.DS_Store
-_old/AITL/.DS_Store
-_old/AITL/demo/index.html
-_old/AITL/index.html
-_old/css/style.css
-_old/index.html
-_old/js/main.js
-_old/lavalamp-css-menu.zip
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# Folders to ignore
+node_modules
+_old/*
+.DS_Store
