@@ -9,8 +9,8 @@ markdown: kramdown
 
 # Setup
 title: ¥One
-email: your-email@example.com
-tagline:          'A Jekyll theme'
+email: Sohkawara@mail.greenriver.edu
+tagline: 'A Jekyll theme'
 description: >- # this means to ignore newlines until "baseurl:"
   <a href="https://github.com/soarcreator">soarcreator</a>
 url: /
