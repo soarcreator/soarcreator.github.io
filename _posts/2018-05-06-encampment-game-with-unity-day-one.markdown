@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Encampment Game With Unity Day One"
+title:  "Wanna Make RTS? Day 1"
 date:   2018-05-05 23:59:59 -0700
-categories: blog
+categories: game-dev
 ---
 I have been developing the encampment game since yesterday.
 ![Screen Shot 2018-05-06 at 1.12.40 AM]({{ "https://pbs.twimg.com/media/Dcf9lLtV4AAwW-9.png:large" | absolute_url }})
